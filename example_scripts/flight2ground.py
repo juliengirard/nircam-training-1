@@ -11,6 +11,7 @@ Authors:
 --------
     - Matt Hill
     - Alicia Canipe (updates for NIRCam)
+    - Julien has changed nothing
 
 Dependencies:
 -------------
